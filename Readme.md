@@ -8,6 +8,6 @@ Antoine de GORGUETTE
 
 1. Clonez le dépôt Git :
 
-   ```
-   $ git clone https://github.com/VHS88/TP-Terraform.git
-   ```
+```
+$ git clone https://github.com/VHS88/TP-Terraform.git
+```
